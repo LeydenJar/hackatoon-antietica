@@ -1,4 +1,4 @@
-# Hackathon Random Systems - Unethical AI
+# Hackathon Antiética
 
 The repository contains two containers, one will setup ollama for you with dolphin mistral. Dolphin Mistral is an uncensored LLM that will respond to whatever you prompt it. Even if it is unethical or illegal.
 
